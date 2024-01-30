@@ -26,5 +26,3 @@ export const STARTING_SEGMENTS = [
     [SECOND_POINT, THIRD_POINT],
     [THIRD_POINT, FIRST_POINT]
 ];
-
-
